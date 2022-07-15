@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.3.6",
+    "chai-bignumber": "^3.0.0",
+    "coveralls": "^3.0.1",
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-mocha-no-only": "^1.1.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "ethereumjs-util": "^6.0.0",
+    "ethjs-abi": "^0.2.1",
+    "ganache-cli": "^6.12.2",
+    "openzeppelin-solidity": "github:gnosis/openzeppelin-solidity",
+    "pify": "^6.0.0",
+    "solhint": "^3.3.7",
+    "solidity-coverage": "^0.7.21",
+    "web3-utils": "^1.7.4"
+  }
+}
